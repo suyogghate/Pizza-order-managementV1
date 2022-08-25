@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+.container{
+    margin: 20px auto;
+}
+
+.order-search{
+    width: 500px;
+    margin: auto;
+}
+
+.order-status-block{
+    display: block;
+    margin: 5px auto;
+    width: 600px;
+    pointer-events: none;
+}
+
+.main-title{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Space Mono', monospace;
+}
+
+.order-status-wrapper{
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 20px;
+    width: 700px;
+    margin: auto;
+}
