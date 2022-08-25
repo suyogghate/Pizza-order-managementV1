@@ -1,0 +1,2 @@
+# Pizza-order-managementV1
+This is a pizza order status project in which when we order a pizza, the status of our order is shown like uptill which state our pizza is in. The concept used here is promises and promise chaining in which one thing is executed after another with the help of setTimeout concept. As soon as you write your order no. and press execute, the status of your pizza shows in green.
